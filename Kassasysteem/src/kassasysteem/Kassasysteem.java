@@ -7,7 +7,7 @@ package kassasysteem;
 
 /**
  *
- * @author Jelle
+ * @author Jelle & Jasper
  */
 public class Kassasysteem {
 
